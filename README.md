@@ -7,6 +7,7 @@
  - [User Goals](#user-goals)
  - [Business Owner Goals](#business-owner-goals)
  - [User Stories](#user-stories)
+ - [Features](#features)
 
 # **Introduction**
 
@@ -55,3 +56,21 @@ As a business owner I would like:
 10. To learn about the business
 11. Any links clicked should open in a new tab
 12. I would like to be able to tell if the service provided is reliable
+
+# **Features**
+
+## Navigation Bar
+
+As the website is on the one page, bootstraps scrollspy is used to show a user exactly where they are on the page and lets them navigate easily from one section to another, which makes for a simpler navigation throughout the page
+
+## Hero Image
+
+This is used to fill up the entire browser window on entering for a visually appealing website and to grab the user's attention. Two call to action buttons are present, a contact button primarily aimed at returning users who have visited the website before and want to go ahead and contact the business. A find out more button is aimed at new users visiting the website who are looking for more information before they contact the business
+
+## About Me Section
+
+This has a profile picture of the business owner, which gives the user a personal and trusting feeling towards the business and shows that the owner is a real person. A call to action button is found underneath for the user to find out more about the business and service provided. This is to limit too much text on the website initially which can look messy an unappealing to the user
+
+## Image Section
+
+After the user reading about the owner and service provided they can have a look at the photographs provided to showcase the business owner's portfolio. This is valuable to the user as they can see if they like what is provided. The user can click on the arrows to easily move between the photographs
