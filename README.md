@@ -5,6 +5,7 @@
 ## **Table Of Contents**
  - [Introduction](#introduction)
  - [User Goals](#user-goals)
+ - [Business Owner Goals](#business-owner-goals)
 
 # **Introduction**
 
@@ -25,3 +26,16 @@ As a customer I would like:
 * To be able to find testimonials from previous users 
 * To see photographs and videos that showcase business portfolio
 * To be able to contact the business easily
+
+## **Business Owner Goals**
+
+As a business owner I would like:
+
+* To raise awareness of the service I provide
+* To stand out from competitors with an appealing website
+* Showcase photographs and videos to show what is provided
+* Increase bookings with call to action buttons 
+* A professional and responsive website
+* Contact details and location to be shown
+* Social media links to be included
+* A contact form to receive emails from interested customers
