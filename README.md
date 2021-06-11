@@ -4,7 +4,7 @@
 
 ## **Table Of Contents**
  - [Introduction](#introduction)
- - [User Goals](user-goals)
+ - [User Goals](#user-goals)
 
 # **Introduction**
 
