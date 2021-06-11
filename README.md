@@ -74,3 +74,23 @@ This has a profile picture of the business owner, which gives the user a persona
 ## Image Section
 
 After the user reading about the owner and service provided they can have a look at the photographs provided to showcase the business owner's portfolio. This is valuable to the user as they can see if they like what is provided. The user can click on the arrows to easily move between the photographs
+
+## Testimonial Section
+
+This provides a photograph and text from previous users which new users will find valuable in finding out more about the service and whether the business is reliable and trustworthy. Users can easily click through the different testimonials using the arrows provided
+
+## Instagram video 
+
+I have embedded the video from the business owner's Instagram to showcase again more of their portfolio. On clicking the video it will open up in a new tab which will allow the user to watch other relevant videos from the Instagram account and allows the user to connect with the business via social media
+
+## Packages Section
+
+This contains exactly what services are provided along with the cost which is highly valuable to the user to help decide which package better suits their needs. The user can easily click through the packages using the provided arrows.
+
+## Contact Section
+
+This form allows the user to easily get in contact with the business owner by sending an email straight to the business. They can specify which package they are interested in to give the business owner as much information as possible. The email is sent directly to the owner once the user clicks the submit button by using the Emailjs API 
+
+## Footer Section
+
+This contains all the contact information and social media links which open to a new tab so access to the website is not lost. This encourages the user to connect via the social media links which increases brand awareness. The Google map API was used to show a map with a marker of where the business is located so the user can easily locate where to find them
