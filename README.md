@@ -4,6 +4,7 @@
 
 ## **Table Of Contents**
  - [Introduction](#introduction)
+ - [User Goals](user-goals)
 
 # **Introduction**
 
@@ -12,3 +13,15 @@ Rent A Drone is a business website showcasing a photographers service of hiring 
 The primary goal is to show all relevant information to a user in an appealing way with an easy to use, responsive website. As the business owner is primarily on Instagram, I decided to embed a video from the Instagram account to encourage the user to connect via social media and increase brand awareness.
 
 The website has been created using a simple design and use of JavaScript interactivity to avoid too much information being shown to the user all at once, which can make the page feel too busy. A responsive contact form is also provided to ensure users have a clear way to contact the business and all emails are sent directly to the business owner, which will in turn create bookings.
+
+## **User Goals**
+
+As a customer I would like:
+
+* An easy to navigate website
+* A website that is responsive on all devices i.e mobile/tablet/desktop
+* Relevant content throughout 
+* A visually appealing website that stands out
+* To be able to find testimonials from previous users 
+* To see photographs and videos that showcase business portfolio
+* To be able to contact the business easily
