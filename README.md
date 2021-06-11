@@ -7,6 +7,7 @@
  - [User Goals](#user-goals)
  - [Business Owner Goals](#business-owner-goals)
  - [User Stories](#user-stories)
+ - [Design](#design)
  - [Features](#features)
 
 # **Introduction**
@@ -57,6 +58,14 @@ As a business owner I would like:
 11. Any links clicked should open in a new tab
 12. I would like to be able to tell if the service provided is reliable
 
+# **Design**
+
+* Hero Image - The sky photograph used for the hero image was chosen to relate to the service provided
+* Colors - From the hero image the blue was taken and used for the navigation bar and footer. The off-white was taken from the clouds to use as a background color in sections and then a white for the alternate sections to create a nice flow and match in with the sky theme of the hero image
+* Fonts - I used the Lato and Roboto fonts throughout the website which both match well together with a fallback font of sans-serif. I also used a cursive font, dancing script for the text on the hero image to create a more personal and fun touch when the user first arrives to the website. These were integrated into the website using [Google Fonts](https://fonts.google.com/)
+* Logo - The business logo was created on the website [Free Logo Design](https://www.freelogodesign.org/) which is used on the navigation bar and made clickable to send user back to top of page
+* Wireframes - Balsamiq was used to show the initial wireframes I had created for the website on the three devices mobile/tablet/desktop - [view Here]()
+
 # **Features**
 
 ## Navigation Bar
@@ -94,3 +103,4 @@ This form allows the user to easily get in contact with the business owner by se
 ## Footer Section
 
 This contains all the contact information and social media links which open to a new tab so access to the website is not lost. This encourages the user to connect via the social media links which increases brand awareness. The Google map API was used to show a map with a marker of where the business is located so the user can easily locate where to find them
+
