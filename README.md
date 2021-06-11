@@ -6,6 +6,7 @@
  - [Introduction](#introduction)
  - [User Goals](#user-goals)
  - [Business Owner Goals](#business-owner-goals)
+ - [User Stories](#user-stories)
 
 # **Introduction**
 
@@ -39,3 +40,18 @@ As a business owner I would like:
 * Contact details and location to be shown
 * Social media links to be included
 * A contact form to receive emails from interested customers
+
+## **User Stories**
+
+1. I would like a simple yet professional looking website that is visually appealing
+2. I would like to be able to view the website on any device
+3. I should be able to easily navigate throughout the website 
+4. Contact details for the business should be easy to find
+5. I would like to be able to see previous work done
+6. I would like a clear explanation of what services are provided
+7. Testimonials of previous customers should be provided
+8. Social media links should be provided for more information
+9. A map with the business location so it's easy to find
+10. To learn about the business
+11. Any links clicked should open in a new tab
+12. I would like to be able to tell if the service provided is reliable
