@@ -22,3 +22,21 @@ function showSlides(n) {
 
   slides[slideIndex-1].style.display = "block";
 }
+
+
+// To show the about me section 
+
+$(document).ready(function(){
+
+  // hides content once page is loaded
+  $(".content-box").hide(),
+
+  // once button is clicked the content will appear
+  $("#show").click(function(){
+    $(".content-box").show(1000),
+
+  // removes button once the content has been shown
+  $(this).remove()
+});
+  
+});
