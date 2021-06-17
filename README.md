@@ -65,9 +65,9 @@ As a business owner I would like:
 * Fonts - I used the Lato and Roboto fonts throughout the website which both match well together with a fallback font of sans-serif. I also used a cursive font, dancing script for the text on the hero image to create a more personal and fun touch when the user first arrives to the website. These were integrated into the website using [Google Fonts](https://fonts.google.com/)
 * Logo - The business logo was created on the website [Free Logo Design](https://www.freelogodesign.org/) which is used on the navigation bar and made clickable to send user back to top of page
 * Wireframes - Balsamiq was used to show the initial wireframes I had created for the website on the three devices mobile/tablet/desktop 
-- [View Mobile Here](https://github.com/RCass172/rent-a-drone/blob/master/assets/wireframes/wireframeMobile.png)
-- [View Tablet Here](https://github.com/RCass172/rent-a-drone/blob/master/assets/wireframes/wireframeTablet.png)
-- [View Desktop Here](https://github.com/RCass172/rent-a-drone/blob/master/assets/wireframes/wireframeDesktop.png)
+  * [View Mobile Here](https://github.com/RCass172/rent-a-drone/blob/master/assets/wireframes/wireframeMobile.png)
+  * [View Tablet Here](https://github.com/RCass172/rent-a-drone/blob/master/assets/wireframes/wireframeTablet.png)
+  * [View Desktop Here](https://github.com/RCass172/rent-a-drone/blob/master/assets/wireframes/wireframeDesktop.png)
 
 # **Features**
 
