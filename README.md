@@ -10,6 +10,7 @@
  - [Design](#design)
  - [Features](#features)
  - [Technologies Used](#technologies-used)
+ - [Credits](#credits)
 
 # **Introduction**
 
@@ -126,3 +127,7 @@ This contains all the contact information and social media links which open to a
 * [Balsamiq](https://balsamiq.com/) - used to create wireframes
 * [Git](https://git-scm.com/) - used for version control
 * [Gitpod](https://www.gitpod.io/) - used to write code before pushing to GitHub for storage
+
+# **Credits**
+
+* [W3schools](https://www.w3schools.com/howto/howto_js_slideshow.asp) - for help with the image slideshow

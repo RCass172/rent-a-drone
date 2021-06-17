@@ -1,4 +1,4 @@
-// image slideshow example taken from w3schools.com 
+// image slideshow example taken from w3schools.com - https://www.w3schools.com/howto/howto_js_slideshow.asp
 
 let slideIndex = 1;
 showSlides(slideIndex);
