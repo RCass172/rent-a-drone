@@ -9,6 +9,7 @@
  - [User Stories](#user-stories)
  - [Design](#design)
  - [Features](#features)
+ - [Technologies Used](#technologies-used)
 
 # **Introduction**
 
@@ -107,3 +108,21 @@ This form allows the user to easily get in contact with the business owner by se
 
 This contains all the contact information and social media links which open to a new tab so access to the website is not lost. This encourages the user to connect via the social media links which increases brand awareness. The Google map API was used to show a map with a marker of where the business is located so the user can easily locate where to find them
 
+# **Technologies Used**
+
+## Languages
+
+* [HTML](https://en.wikipedia.org/wiki/HTML)
+* [CSS](https://en.wikipedia.org/wiki/CSS)
+* [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
+
+## Libraries/Frameworks/Tools
+
+* [Bootstrap v4.6](https://getbootstrap.com/docs/4.6/getting-started/introduction/) - used for responsive pages  
+* [TinyPNG](https://tinypng.com/) - used to compress images for better performance
+* [Google Fonts](https://fonts.google.com/) - Lato/Roboto/Dancing Script was used on website, imported to the style.css file
+* [Google Map API](https://developers.google.com/maps/documentation/javascript/overview) - used in the footer of website to show an interactive map location of the business using a marker
+* [EmailJs](https://www.emailjs.com/) - used for the contact form to send emails directly to business owner
+* [Balsamiq](https://balsamiq.com/) - used to create wireframes
+* [Git](https://git-scm.com/) - used for version control
+* [Gitpod](https://www.gitpod.io/) - used to write code before pushing to GitHub for storage
