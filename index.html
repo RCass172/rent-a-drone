@@ -68,46 +68,47 @@
                         </div>
                         <button id="show" id="profile-btn" class="btn">Find Out More</button>
                     </div>
-                    <div class="col-12 col-md-6">
-
-                        <!-- image slideshow created -->
-                        <div class="slideshow-box">
+                    
+                     <!-- image slideshow example taken from w3schools.com -->
+                    <div class="slideshow-container col-12 col-md-6">
 
                             <!-- images added here -->
-                            <div> 
-                              <img src="/assets/images/imageOne.jpg" style="width:100%">
-                            </div>
-                          
-                            <div>
-                              <img src="/assets/images/imageTwo.jpg" style="width:100%">
-                            </div>
-                          
-                            <div>
-                              <img src="/assets/images/imageThree.jpg" style="width:100%">
+                            <div class="slides"> 
+                              <img src="/assets/images/imageOne.jpg">
                             </div>
 
-                            <div>
-                              <img src="/assets/images/imageFour.jpg" style="width:100%">
+                            <div class="slides"> 
+                                <img src="/assets/images/imageTwo.jpg">
                             </div>
 
-                            <div>
-                              <img src="/assets/images/imageFive.jpg" style="width:100%">
+                            <div class="slides"> 
+                                <img src="/assets/images/imageThree.jpg">
+                            </div>
+                            
+                            <div class="slides"> 
+                                <img src="/assets/images/imageFive.jpg">
+                            </div>
+                              
+                            <div class="slides"> 
+                                <img src="/assets/images/imageFive.jpg">
+                            </div>
+                            
+                            <div class="slides"> 
+                                <img src="/assets/images/imageSix.jpg">
+                            </div>
+                              
+                            <div class="slides"> 
+                                <img src="/assets/images/imageSeven.jpg">
+                            </div>
+                              
+                            <div class="slides"> 
+                                <img src="/assets/images/imageEight.jpg">
                             </div>
 
-                            <div>
-                              <img src="/assets/images/imageSix.jpg" style="width:100%">
-                            </div>
-  
-                            <div>
-                              <img src="/assets/images/imageSeven.jpg" style="width:100%">
-                            </div>
-  
-                            <div>
-                              <img src="/assets/images/imageEight.jpg" style="width:100%">
-                            </div>
-                          
-                          </div>
-                        
+                            <!-- Next and previous buttons -->
+                            <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+                            <a class="next" onclick="plusSlides(1)">&#10095;</a>
+                            
                     </div>
                 </div>
             </div>
@@ -140,6 +141,8 @@
         </article>
 
     </div>
-    
+    <script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
+    <script src="assets/js/script.js"></script>
+
 </body>
 </html>
