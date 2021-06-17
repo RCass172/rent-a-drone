@@ -17,3 +17,21 @@ h2 {
 h1 {
     font-family: 'Dancing Script', cursive;
 }
+
+/*------------------navbar----------------------*/
+
+.navbar {
+    background-color: #245099;
+    width: 100%;
+    float: right;
+}
+
+
+.nav .nav-link {
+    font-weight: bold;
+    color: #fff !important;
+}
+
+.nav .nav-link:hover {
+    color: #c4cad6 !important;
+}
