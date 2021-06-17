@@ -63,6 +63,7 @@ h1 {
     margin-left: auto;
     margin-right: auto;
     margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .btn {
@@ -73,7 +74,7 @@ h1 {
 }
 
 .content-box p {
-    text-align: left !important;
+    text-align: left;
 }
 
 /*-----------slideshow images--------------------*/
