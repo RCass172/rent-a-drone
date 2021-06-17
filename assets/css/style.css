@@ -13,6 +13,7 @@ h2 {
     font-family: "Lato", sans-serif;
     font-size: 30px; 
     text-align: center;
+    margin-top: 40px;
 }
 
 h1 {
@@ -132,6 +133,29 @@ h1 {
   .prev {
       left: 0;
   }
+
+/*------------section 2--------------------------*/
+
+.test-box {
+    margin: 10%;
+    padding: 30px;
+    border-style: solid;
+    border-color: #c4cad6;
+    border-radius: 30px;
+    background-color: #c4cad6;
+    text-align: center;
+}
+
+.test-img {
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+    margin-bottom: 20px;
+}
+
+.test-box p {
+    text-align: left;
+}
 
 
 @media only screen and (max-width: 600px) {
