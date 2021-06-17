@@ -23,7 +23,6 @@ h1 {
 .navbar {
     background-color: #245099;
     width: 100%;
-    float: right;
 }
 
 
@@ -34,4 +33,15 @@ h1 {
 
 .nav .nav-link:hover {
     color: #c4cad6 !important;
+}
+
+/*----------hero image--------------------------*/
+
+#hero-image {
+    background-image: url(../images/hero-sky.jpg);
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 90vh;
 }
