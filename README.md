@@ -131,3 +131,4 @@ This contains all the contact information and social media links which open to a
 # **Credits**
 
 * [W3schools](https://www.w3schools.com/howto/howto_js_slideshow.asp) - for help with the image slideshow
+* [Rob Shaw Photography](https://www.instagram.com/rob_shaw_photography/) - for the profile picture, slideshow pictures and instagram video
