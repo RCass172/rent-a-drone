@@ -195,7 +195,20 @@ h1 {
 footer {
     background-color: #245099;
     color: #fff;
+    padding: 15px;
 }
+
+.social-network li{
+    display: inline;
+}
+
+.social-network i {
+    font-size: 30px;
+    padding-right: 30px;
+    padding-top: 20px;
+    color: #fff;
+}
+
 
 /*-----------mobile device---------------------------*/
 
