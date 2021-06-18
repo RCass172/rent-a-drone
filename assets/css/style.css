@@ -190,7 +190,14 @@ h1 {
     padding-right: 10%;
 }
 
-/*-----------mobile device------------*/
+/*-----------footer-------------------------------*/
+
+footer {
+    background-color: #245099;
+    color: #fff;
+}
+
+/*-----------mobile device---------------------------*/
 
 @media only screen and (max-width: 600px) {
     .slides img {
