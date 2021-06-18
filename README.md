@@ -121,6 +121,7 @@ This contains all the contact information and social media links which open to a
 
 * [Bootstrap v4.6](https://getbootstrap.com/docs/4.6/getting-started/introduction/) - used for responsive pages  
 * [TinyPNG](https://tinypng.com/) - used to compress images for better performance
+* [Fontawesome](https://fontawesome.com/)- used for the aesthetics 
 * [Google Fonts](https://fonts.google.com/) - Lato/Roboto/Dancing Script was used on website, imported to the style.css file
 * [Google Map API](https://developers.google.com/maps/documentation/javascript/overview) - used in the footer of website to show an interactive map location of the business using a marker
 * [EmailJs](https://www.emailjs.com/) - used for the contact form to send emails directly to business owner
