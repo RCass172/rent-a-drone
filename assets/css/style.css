@@ -163,12 +163,12 @@ h1 {
     margin-top: 20px;
 }
 
-.pack-box i {
+.pack-box1 i, .pack-box2 i {
     font-size: 60px;
     padding: 15px;
 }
 
-.pack-box {
+.pack-box1, .pack-box2 {
     text-align: center;
     border-width: 20px;
     border-radius: 60px;

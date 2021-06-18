@@ -37,3 +37,50 @@ $(document).ready(function(){
 });
   
 });
+
+// function called when first more button it clicked
+function buttonClick(event) {
+
+  // hides initial paragraph
+  $(".pack-one").hide(2000);
+  
+  // add more detailed paragraph regarding package
+  $(".pack-box1").append(`
+  <p>€350 for one day hire<br>
+  Drone and Pilot<br>
+  Includes digital copies of all shots<br>
+  Available nationwide
+  </p>
+  `);
+
+  // removes button
+  $(this).remove()
+}
+
+//listener for button click
+let moreBtn = document.getElementById("more-btn1");
+moreBtn.addEventListener('click', buttonClick);
+
+// function called when second more button is clicked
+function buttonClick2(event) {
+
+  // hides initial paragraph
+  $(".pack-two").hide(2000);
+
+  // adds more detailed paragraph regarding package
+  $(".pack-box2").append(`
+  <p>€150 for one day hire<br>
+  Drone only<br>
+  Includes digital copies of all shots<br>
+  Insurance included<br>
+  Collection only
+  </p>
+  `);
+
+  // removed button
+  $(this).remove()
+}
+
+// listener for button click
+let moreBtn2 = document.getElementById("more-btn2");
+moreBtn2.addEventListener('click', buttonClick2);
