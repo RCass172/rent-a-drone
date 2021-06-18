@@ -69,7 +69,7 @@ h1 {
 
 /*-------------section 1--------------------------------------------*/
 
-.section-one {
+.section-one, .contact-form {
     background-color: #c4cad6;
     text-align: center;
 }
@@ -179,6 +179,14 @@ h1 {
 }
 
 
+/*----------contact form----------------------------------*/
+
+.contact-form {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+/*-----------mobile device------------*/
 
 @media only screen and (max-width: 600px) {
     .slides img {
