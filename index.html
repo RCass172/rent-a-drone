@@ -258,10 +258,12 @@
                             <div class="form-group">
                                 <input type="number" name="contactnumber" class="form-control" id="contactNumberInput" placeholder="Enter Contact Number" required>
                             </div>
-                            <div class="form-group">
+                            <div class="form-group radio-btn">
                                 <p>Please Choose Preferred Package: </p>
-                                <span class="radio"><input type="radio" name="packageOne" /> Drone and Pilot</span><br />
-                                <span class="radio"><input type="radio" name="packageTwo"  /> Drone Only</span><br />
+                                <input type="radio" id="packageOne" name="package" /> 
+                                <label for="packageOne">Drone and Pilot</label><br>
+                                <input type="radio" id="packageTwo" name="package">
+                                <label for="packageTwo">Drone Only</label>
                             </div>
                             <div class="form-group">
                                 <textarea class="form-control" id="moredetailtext" rows="3" placeholder="Enter Details Here" required></textarea>

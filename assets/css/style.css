@@ -188,6 +188,11 @@ h1 {
 .contact-form {
     padding-left: 10%;
     padding-right: 10%;
+    text-align: left;
+}
+
+.radio-btn {
+    margin-left: 20%;
 }
 
 /*-----------footer-------------------------------*/
