@@ -126,7 +126,7 @@ h1 {
     font-weight: bold;
     font-size: 35px;
     user-select: none;
-    text-decoration: none;
+    text-decoration: none !important;
   }
   
   .next {
