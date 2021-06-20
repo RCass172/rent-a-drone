@@ -84,3 +84,10 @@ function buttonClick2(event) {
 // listener for button click
 let moreBtn2 = document.getElementById("more-btn2");
 moreBtn2.addEventListener('click', buttonClick2);
+
+
+// navbar collapse on clicking menu item
+
+$('.navbar-collapse a').click(function(){
+            $(".navbar-collapse").collapse('hide')
+});
