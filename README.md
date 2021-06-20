@@ -123,7 +123,7 @@ This contains all the contact information and social media links which open to a
 * [TinyPNG](https://tinypng.com/) - used to compress images for better performance
 * [Fontawesome](https://fontawesome.com/)- used for the aesthetics 
 * [Google Fonts](https://fonts.google.com/) - Lato/Roboto/Dancing Script was used on website, imported to the style.css file
-* [Google Map API](https://developers.google.com/maps/documentation/javascript/overview) - used in the footer of website to show an interactive map location of the business using a marker
+* [Google Map API](https://developers.google.com/maps/documentation/javascript/overview) - used in the footer of website to show an interactive map location of the business using a marker, Google maps documentation used as reference
 * [EmailJs](https://www.emailjs.com/) - used for the contact form to send emails directly to business owner
 * [Balsamiq](https://balsamiq.com/) - used to create wireframes
 * [Git](https://git-scm.com/) - used for version control

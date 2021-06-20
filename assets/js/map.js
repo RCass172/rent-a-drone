@@ -13,7 +13,7 @@ function initMap() {
         zoom: 15,
     });
 
-    //creates a marker on the map at the specified location coordinates
+    //creates a marker on the map at the specified location coordinates, Google maps documentation used as reference
     let marker = new google.maps.Marker( {
         position: home,
         map: map,
