@@ -66,7 +66,7 @@ h1 {
     margin-left: 20px;
 }
 
-.intro .hero-btn {
+.intro .hero-btn, #packages .more-btn {
     background-color: #EE6D6D;
     color: #000;
     font-weight: bold;
@@ -179,13 +179,12 @@ h1 {
 .pack-box1, .pack-box2 {
     text-align: center;
     border-width: 20px;
-    border-radius: 60px;
     border-style: solid;
     border-color: #fff;
-    background-color: #c4cad6;
+    background-color: #245099;
     padding: 30px;
+    color: #fff;
 }
-
 
 /*----------contact form----------------------------------*/
 
