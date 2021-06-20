@@ -34,6 +34,7 @@ h1 {
 .nav .nav-link {
     font-weight: bold;
     color: #fff !important;
+    background-color: #245099 !important;
 }
 
 .nav .nav-link:hover {
