@@ -133,3 +133,6 @@ This contains all the contact information and social media links which open to a
 
 * [W3schools](https://www.w3schools.com/howto/howto_js_slideshow.asp) - for help with the image slideshow
 * [Rob Shaw Photography](https://www.instagram.com/rob_shaw_photography/) - for the profile picture, slideshow pictures and instagram video
+* [Pexels](https://www.pexels.com/photo/man-wearing-blue-crew-neck-t-shirt-2379005/) - Photo by Italo Melo from Pexels for the 'James' testimonial image
+* [Pexels](https://www.pexels.com/photo/photo-of-two-women-smiling-wearing-white-shirt-2467450/) - Photo by Bran Sodre from Pexels for the 'Mia and Greta' testimonial image
+* [Pexels](https://www.pexels.com/photo/freckled-face-3763188/) - Photo by Andrea Piacquadio from Pexels for the 'Sarah' testimonial image
