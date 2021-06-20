@@ -115,9 +115,7 @@ h1 {
 }
 
 .firstSlide img {
-    width: auto;
     max-width: 100%;
-    height: auto;
     margin-top: 20px;
     margin-bottom: 20px;
 }
