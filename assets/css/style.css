@@ -209,6 +209,10 @@ footer {
     padding: 15px;
 }
 
+.social-network {
+    padding-left: 0;
+}
+
 .social-network li{
     display: inline;
 }
