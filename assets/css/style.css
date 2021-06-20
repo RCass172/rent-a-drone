@@ -132,8 +132,8 @@ h1 {
     font-size: 35px;
     user-select: none;
     text-decoration: none !important;
-    margin-left: 25px;
-    margin-right: 25px;
+    margin-left: 5px;
+    margin-right: 5px;
   }
   
   .next {
@@ -147,16 +147,15 @@ h1 {
 /*------------section 2--------------------------*/
 
 .test-box {
-    margin: 20px;
     padding: 30px;
     background-color: #c4cad6;
     text-align: center;
 }
 
 .test-box img {
-    height: 100%;
-    width: 100%;
-    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
     margin-bottom: 20px;
 }
 
