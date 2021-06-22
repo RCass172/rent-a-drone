@@ -1,3 +1,16 @@
+//Creates the intro contents and has them appear
+$(document).ready(function(){
+  $(".intro").append(
+    `<h1>Come Fly With Me...</h1>
+    <a href="#about-me" class="btn hero-btn">Learn More</a>
+    <a href="#contact-me" class="btn hero-btn">Get In Touch</a>`
+  ).hide();
+  
+  // Creates a sliding animation for the content to appear
+  $(".intro").slideDown(3000);
+});
+
+
 // image slideshow example taken from w3schools.com - https://www.w3schools.com/howto/howto_js_slideshow.asp
 
 let slideIndex = [1,1];
