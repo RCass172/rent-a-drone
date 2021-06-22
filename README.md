@@ -1,5 +1,7 @@
 # Rent A Drone
 
+![webpage layout on devices](assets/images/demoLayout.png)
+
 [Link to Website](https://rcass172.github.io/rent-a-drone/)
 
 ## **Table Of Contents**
