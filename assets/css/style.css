@@ -105,6 +105,11 @@ h1 {
     text-align: left;
 }
 
+#my-quote {
+    font-family: 'Dancing Script', cursive;
+    font-size: 22px;
+}
+
 /*-----------slideshow images--------------------*/
 .slideshow-container {
     position: relative;

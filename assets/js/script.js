@@ -1,3 +1,5 @@
+/*jshint esversion: 6 */ 
+
 //Creates the intro contents and has them appear
 $(document).ready(function(){
   $(".intro").append(
@@ -5,10 +7,31 @@ $(document).ready(function(){
     <a href="#about-me" class="btn hero-btn">Learn More</a>
     <a href="#contact-me" class="btn hero-btn">Get In Touch</a>`
   ).hide();
-  
+
   // Creates a sliding animation for the content to appear
   $(".intro").slideDown(3000);
 });
+
+
+// Creates the quote of the day
+//Quotes taken from google search of best quotes
+let quotes = [
+  "Photography is the story I fail to put into words. - Destin Sparks",
+  "A good snapshot keeps a moment from running away. - E. Welty",
+  "The Earth is Art, The Photographer is only a Witness - Yann Arthus-Bertrand",
+  "If you can dream it, you can do it - Walt Disney",
+  "Life is what happens when you're busy making other plans. - John Lennon",
+  "Always remember that you are absolutely unique. Just like everyone else. - Margaret Mead",
+  "Live in the sunshine, swim the sea, drink the wild air. - Ralph Waldo Emerson",
+  "Life itself is the most wonderful fairy tale. - Hans Christian Andersen",
+  "Dream big and dare to fail. - Norman Vaughan"
+];
+
+// Creates the function to be called when button clicked
+function dailyQuote() {
+  let randomPick = Math.floor(Math.random() * (quotes.length));
+  document.getElementById("my-quote").innerHTML = quotes[randomPick];
+}
 
 
 // image slideshow example taken from w3schools.com - https://www.w3schools.com/howto/howto_js_slideshow.asp
@@ -35,7 +58,6 @@ function showSlides(n, no) {
 
 
 // To show the about me section 
-
 $(document).ready(function(){
 
   // hides content once page is loaded
@@ -47,9 +69,9 @@ $(document).ready(function(){
 
   // removes button once the content has been shown
   $(this).remove()
+  });
 });
-  
-});
+
 
 // function called when first more button it clicked
 function buttonClick(event) {
