@@ -198,7 +198,10 @@ h1 {
 
 .contact-form {
     padding-left: 10%;
-    padding-right: 10%;
+    padding-right: 10%;  
+}
+
+.radio-btn {
     text-align: left;
 }
 
