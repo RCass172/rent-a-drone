@@ -127,8 +127,7 @@ This contains all the contact information and social media links which open to a
 * [Google Map API](https://developers.google.com/maps/documentation/javascript/overview) - used in the footer of website to show an interactive map location of the business using a marker, Google maps documentation used as reference
 * [EmailJs](https://www.emailjs.com/) - used for the contact form to send emails directly to business owner
 * [Balsamiq](https://balsamiq.com/) - used to create wireframes
-* [Git](https://git-scm.com/) - used for version control
-* [Gitpod](https://www.gitpod.io/) - used to write code before pushing to GitHub for storage
+* [Favicon](https://favicon.io/favicon-converter/) - used to create the favicons
 
 # **Credits**
 
