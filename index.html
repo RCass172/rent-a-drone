@@ -267,7 +267,9 @@
                 <div class="row">
                     <div class="col-12">
                         <h2>Contact Me</h2>
-                        <form class="form-box">
+
+                        <!--Calls sendEmail function-->
+                        <form onsubmit="return sendEmail(this);" id="contactForm">
                             <div class="form-group">
                                 <input type="text" name="name" class="form-control" id="nameInput" placeholder="Enter Full Name" required>
                             </div>
@@ -279,13 +281,13 @@
                             </div>
                             <div class="form-group radio-btn">
                                 <p>Please Choose Preferred Package: </p>
-                                <input type="radio" id="packageOne" name="package" /> 
+                                <input type="radio" id="packageOne" name="package" value="Drone and Pilot"> 
                                 <label for="packageOne">Drone and Pilot</label><br>
-                                <input type="radio" id="packageTwo" name="package">
+                                <input type="radio" id="packageTwo" name="package" value="Drone only">
                                 <label for="packageTwo">Drone Only</label>
                             </div>
                             <div class="form-group">
-                                <textarea class="form-control" id="moredetailtext" rows="3" placeholder="Enter Details Here" required></textarea>
+                                <textarea name="message" class="form-control" id="moredetailtext" rows="3" placeholder="Enter Details Here" required></textarea>
                             </div>
                             <button type="submit" class="btn">Submit</button>
                         </form>
@@ -341,7 +343,7 @@
 
     </div>
 
-    <!--Ggoogle maps-->
+    <!--Google maps-->
     <script src="https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/markerclusterer.js"></script>
     <script
       src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC0g0qGHwpqvjy0iNuooXKt2EQxjZXA4XQ&callback=initMap&libraries=&v=weekly"
@@ -353,6 +355,6 @@
     <!--Internal JS-->
     <script src="assets/js/script.js"></script>
     <script src="assets/js/map.js"></script>
-
+    <script src="assets/js/email.js"></script>
 </body>
 </html>
