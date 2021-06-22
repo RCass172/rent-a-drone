@@ -64,6 +64,7 @@ h1 {
     right: 0;
     margin-right: 40px;
     margin-left: 20px;
+    text-align: center;
 }
 
 .intro .hero-btn, #packages .more-btn {
