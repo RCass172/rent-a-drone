@@ -73,7 +73,8 @@ As a business owner I would like:
 * Wireframes - Balsamiq was used to show the initial wireframes I had created for the website on the three devices mobile/tablet/desktop 
   * [View Mobile Here](https://github.com/RCass172/rent-a-drone/blob/master/assets/wireframes/wireframeMobile.png)
   * [View Tablet Here](https://github.com/RCass172/rent-a-drone/blob/master/assets/wireframes/wireframeTablet.png)
-  * [View Desktop Here](https://github.com/RCass172/rent-a-drone/blob/master/assets/wireframes/wireframeDesktop.png)
+
+![Desktop wireframe image](assets/wireframes/wireframeDesktop.png)  
 
 # **Features**
 
