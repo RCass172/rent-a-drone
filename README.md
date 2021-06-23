@@ -13,6 +13,7 @@
  - [Features](#features)
  - [Technologies Used](#technologies-used)
  - [Testing](#testing)
+ - [Deployment](#deployment)
  - [Credits](#credits)
 
 # **Introduction**
@@ -135,6 +136,61 @@ This contains all the contact information and social media links which open to a
 # **Testing**
 
 Click [here](testing.md) for the testing process 
+
+# **Deployment**
+
+This project was deployed to GitHub pages by executing the following steps:
+
+1. Open GitHub and find relevant [repository](https://github.com/RCass172/rent-a-drone/).
+2. Navigate to the settings tab and scroll down to pages.
+3. Under source heading click the none dropdown and select <b>master branch</b> and save.
+4. When page refreshes the website is now live and found when you click settings > pages > Your site is published at [link](https://rcass172.github.io/rent-a-drone/)
+
+To run project locally:
+
+1. Open GitHub and find relevant [repository](https://github.com/RCass172/rent-a-drone/).
+2. Click the download code dropdown.
+3. Using the clone HTTPS option copy the link provided.
+4. Open Git Bash and change working directory to location where you want cloned directory to go.
+5. Type <b>git clone</b> command and paste the clone link you had copied.
+
+To fork the repository and save a copy to your own Github account
+
+1. Open GitHub and find relevant [repository](https://github.com/RCass172/rent-a-drone/).
+2. On the top right click the fork button.
+3. This will now save a copy of the repository to your account.
+
+To create the Google map API key needed to display the map
+
+1. Go to [Google maps documentation](https://developers.google.com/maps/gmp-get-started).
+2. In the Google Cloud Console, on the project selector page, click Create Project to begin creating a new Cloud project.
+3. click on create, input a project name and create.
+4. Make sure that billing is enabled for your Cloud project.
+5. Click enable APIs and services at the top and enable the Maps javascript API.
+6. Go to the APIs & Services > Credentials page.
+7. Click Create credentials > API key. This displays your created API key.
+8. Make sure you <b>restrict the API key</b> before use.
+
+To restrict the API key
+
+1. In the Google cloud console, click on credentials and then the API key being used.
+2. Under application restrictions make sure http referrers(web sites) is selected.
+3. Under website restrictions click on add item.
+4. Specify one or more referrer web sites here and click done.
+5. Under API restrictions make sure restrict key is selected.
+6. On the dropdown select Maps JavaScript API and save.
+
+To connect to EmailJs
+
+1. Firstly you need to create a free account with [EmailJs](https://www.emailjs.com/).
+2. Click the personal email service option and select Gmail.
+3. Add the name as Gmail and service_id as rent_a_drone.
+4. Click connect account to connect your email.
+5. Now you can add your template by clicking on email templates.
+6. Fill in a blank template with the subject, from, to and message fields and save.
+7. Go to [EmailJs documents](https://www.emailjs.com/docs/sdk/installation/) and click on installation.
+8. Copy the code given and paste into html file before the closing head tag.
+9. Get your user ID (you can get this from the Instrucions page in the EmailJS dashboard) and paste it into your emailjs.init().
 
 # **Credits**
 
