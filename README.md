@@ -134,7 +134,7 @@ This contains all the contact information and social media links which open to a
 * [Google Map API](https://developers.google.com/maps/documentation/javascript/overview) - used in the footer of website to show an interactive map location of the business using a marker, Google maps documentation used as reference
 * [EmailJs](https://www.emailjs.com/) - used for the contact form to send emails directly to business owner
 * [Balsamiq](https://balsamiq.com/) - used to create wireframes
-* [Favicon](https://favicon.io/favicon-converter/) - used to create the favicons
+* [Favicon](https://favicon.io/favicon-converter/) - used to create the icons used throughout
 
 # **Testing**
 
@@ -167,7 +167,7 @@ To create the Google map API key needed to display the map
 
 1. Go to [Google maps documentation](https://developers.google.com/maps/gmp-get-started).
 2. In the Google Cloud Console, on the project selector page, click Create Project to begin creating a new Cloud project.
-3. click on create, input a project name and create.
+3. Click on create, input a project name and create.
 4. Make sure that billing is enabled for your Cloud project.
 5. Click enable APIs and services at the top and enable the Maps javascript API.
 6. Go to the APIs & Services > Credentials page.
@@ -198,7 +198,7 @@ To connect to EmailJs
 # **Credits**
 
 * [W3schools](https://www.w3schools.com/howto/howto_js_slideshow.asp) - for help with the image slideshow
-* [Rob Shaw Photography](https://www.instagram.com/rob_shaw_photography/) - for the profile picture, slideshow pictures and instagram video
+* [Rob Shaw Photography](https://www.instagram.com/rob_shaw_photography/) - for the profile picture, slideshow pictures and Instagram video
 * [Pexels](https://www.pexels.com/photo/man-wearing-blue-crew-neck-t-shirt-2379005/) - Photo by Italo Melo from Pexels for the 'James' testimonial image
 * [Pexels](https://www.pexels.com/photo/photo-of-two-women-smiling-wearing-white-shirt-2467450/) - Photo by Bran Sodre from Pexels for the 'Mia and Greta' testimonial image
 * [Pexels](https://www.pexels.com/photo/woman-wearing-gray-mock-neck-sweater-789305/) - Photo by Anastasiya Lobanovskaya from Pexels for the 'Sarah' testimonial image
