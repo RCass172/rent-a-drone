@@ -104,7 +104,7 @@ I have embedded the video from the business owner's Instagram to showcase again 
 
 ## Packages Section
 
-This contains exactly what services are provided along with the cost which is highly valuable to the user to help decide which package better suits their needs. In my intial wireframe I had them as a slideshow to be able to click through, however I felt it better having both on display as there were only two options and easier for the user to see both at first glance when on larger devices.
+This contains exactly what services are provided along with the cost which is highly valuable to the user to help decide which package better suits their needs. In my initial wireframe I had them as a slideshow to be able to click through, however I felt it better having both on display as there were only two options and easier for the user to see both at first glance when on larger devices
 
 ![Packages section layout](assets/images/packagesLayout.png)
 
