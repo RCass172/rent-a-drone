@@ -12,6 +12,7 @@
  - [Design](#design)
  - [Features](#features)
  - [Technologies Used](#technologies-used)
+ - [Testing](#testing)
  - [Credits](#credits)
 
 # **Introduction**
@@ -130,6 +131,10 @@ This contains all the contact information and social media links which open to a
 * [EmailJs](https://www.emailjs.com/) - used for the contact form to send emails directly to business owner
 * [Balsamiq](https://balsamiq.com/) - used to create wireframes
 * [Favicon](https://favicon.io/favicon-converter/) - used to create the favicons
+
+# **Testing**
+
+Click [here](testing.md) for the testing process 
 
 # **Credits**
 
