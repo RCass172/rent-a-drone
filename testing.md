@@ -3,6 +3,7 @@
 - [Code Validation](#code-validation)
 - [Testing Functionality](#testing-functionality)
 - [Testing Responsiveness](#testing-responsiveness)
+- [Testing Performance](#testing-performance)
 
 ## **Code Validation**
 
@@ -141,3 +142,14 @@ The website was tested on the following browsers:
 
 Results were good and as expected
 
+## **Testing Performance**
+
+Google Chrome's Dev tools were used on an incognito page to check the performance of the website, via their built in lighthouse tool and over all I was satisfied. See below for both desktop and mobile results:
+
+Mobile Results
+
+![Lighthouse mobile results](assets/images/devToolsLighthouse-mobile.png)
+
+Desktop Results
+
+![Lighthouse desktop results](assets/images/devToolsLighthouse-desktop.png)
