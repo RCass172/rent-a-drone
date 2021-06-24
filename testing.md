@@ -5,6 +5,8 @@
 - [Testing Responsiveness](#testing-responsiveness)
 - [Testing Performance](#testing-performance)
 
+---
+
 ## **Code Validation**
 
 - I used [W3C Markup Validation Service](https://validator.w3.org/#validate_by_input) to test the index.html page which returned no errors as shown below:
@@ -31,6 +33,8 @@
 
   - One undefined variable ($) - This was not changed as it relates to the JQuery used.
   - Three unused Variables (dailyQuote, plusSlides, buttonClick) - These are functions being called from the index.html which therefore throws up an error here.
+
+---
 
 ## **Testing Functionality**
 
@@ -98,9 +102,11 @@ Testing was done on all the features of the website to make sure everything work
   - Confirmed Google map displays on all relevant website paths
   - Confirmed marker is displaying business address and map is interactive
 
+---
+
 ## **Testing Responsiveness**
 
-- Device testing
+- **Device testing**
 
 The website was tested using Google Chrome's Dev Tools to check if the website displayed well on all devices below:
 
@@ -119,7 +125,7 @@ The website was tested using Google Chrome's Dev Tools to check if the website d
 
 Results were good and as expected
 
-- Operating system testing
+- **Operating system testing**
 
 The website was tested on real devices with the following OS:
 
@@ -129,7 +135,7 @@ The website was tested on real devices with the following OS:
 
 Results were good and as expected
 
-- Browser testing
+- **Browser testing**
 
 The website was tested on the following browsers:
 
@@ -142,14 +148,19 @@ The website was tested on the following browsers:
 
 Results were good and as expected
 
+---
+
 ## **Testing Performance**
 
 Google Chrome's Dev tools were used on an incognito page to check the performance of the website, via their built in lighthouse tool and over all I was satisfied. See below for both desktop and mobile results:
 
-Mobile Results
+***Mobile Results***
 
 ![Lighthouse mobile results](assets/images/devToolsLighthouse-mobile.png)
 
-Desktop Results
+***Desktop Results***
 
 ![Lighthouse desktop results](assets/images/devToolsLighthouse-desktop.png)
+
+---
+
