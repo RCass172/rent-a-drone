@@ -37,7 +37,7 @@ function dailyQuote() {
 // image slideshow example taken from w3schools.com - https://www.w3schools.com/howto/howto_js_slideshow.asp
 
 let slideIndex = [1,1];
-let slideId = ["firstSlide", "secondSlide"]
+let slideId = ["firstSlide", "secondSlide"];
 showSlides(1, 0);
 showSlides(1, 1);
 
@@ -47,13 +47,13 @@ function plusSlides(n, no) {
 
 function showSlides(n, no) {
   let i;
-  let x = document.getElementsByClassName(slideId[no]);
-  if (n > x.length) {slideIndex[no] = 1}
-  if (n < 1) {slideIndex[no] = x.length}
-  for (i = 0; i < x.length; i++) {
-    x[i].style.display = "none";
+  let images = document.getElementsByClassName(slideId[no]);
+  if (n > images.length) {slideIndex[no] = 1};
+  if (n < 1) {slideIndex[no] = images.length};
+  for (i = 0; i < images.length; i++) {
+    images[i].style.display = "none";
   }
-  x[slideIndex[no]-1].style.display = "block";
+  images[slideIndex[no]-1].style.display = "block";
 }
 
 
