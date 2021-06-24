@@ -15,6 +15,7 @@
  - [Testing](#testing)
  - [Deployment](#deployment)
  - [Credits](#credits)
+ - [Acknowledgements](#acknowledgements)
 
 # **Introduction**
 
@@ -204,3 +205,11 @@ To connect to EmailJs
 * [Pexels](https://www.pexels.com/photo/woman-wearing-gray-mock-neck-sweater-789305/) - Photo by Anastasiya Lobanovskaya from Pexels for the 'Sarah' testimonial image
 * [EmailJs](https://www.emailjs.com/docs/sdk/send/) - Code referenced for sending an email from the contact form to business owner
 * [Google Map markers](https://developers.google.com/maps/documentation/javascript/markers) - Code referenced for adding a location marker to map
+
+# **Acknowledgements**
+
+I would like to firstly thank my mentor Victor Miclovich who guided me throughout this project and helped point me in the right direction making it a great learning experience. His opinions and help understanding anything I was unsure about was always greatly appreciated.
+
+To my family and friends who helped provide great and honest feedback throughout the project.
+
+And finally thanks to the slack community for whenever I got stuck on a problem, research always pointed me in the right direction.
