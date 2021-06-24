@@ -4,6 +4,8 @@
 
 [Link to Website](https://rcass172.github.io/rent-a-drone/)
 
+---
+
 ## **Table Of Contents**
  - [Introduction](#introduction)
  - [User Goals](#user-goals)
@@ -16,6 +18,8 @@
  - [Deployment](#deployment)
  - [Credits](#credits)
  - [Acknowledgements](#acknowledgements)
+
+ ---
 
 # **Introduction**
 
@@ -65,6 +69,8 @@ As a business owner I would like:
 11. Any links clicked should open in a new tab
 12. I would like to be able to tell if the service provided is reliable
 
+---
+
 # **Design**
 
 * Hero Image - The sky photograph used for the hero image was chosen to relate to the service provided
@@ -76,6 +82,8 @@ As a business owner I would like:
   * [View Tablet Here](https://github.com/RCass172/rent-a-drone/blob/master/assets/wireframes/wireframeTablet.png)
 
 ![Desktop wireframe image](assets/wireframes/wireframeDesktop.png)  
+
+---
 
 # **Features**
 
@@ -117,6 +125,8 @@ This form allows the user to easily get in contact with the business owner by se
 
 This contains all the contact information and social media links which open to a new tab so access to the website is not lost. This encourages the user to connect via the social media links which increases brand awareness. The Google map API was used to show a map with a marker of where the business is located so the user can easily locate where to find them
 
+---
+
 # **Technologies Used**
 
 ## Languages
@@ -136,10 +146,16 @@ This contains all the contact information and social media links which open to a
 * [EmailJs](https://www.emailjs.com/) - used for the contact form to send emails directly to business owner
 * [Balsamiq](https://balsamiq.com/) - used to create wireframes
 * [Favicon](https://favicon.io/favicon-converter/) - used to create the icons used throughout
+* [Git](https://git-scm.com/) - used for version control
+* [Gitpod](https://www.gitpod.io/) - used to write code before pushing to GitHub for storage
+
+---
 
 # **Testing**
 
 Click [here](testing.md) for the testing process 
+
+---
 
 # **Deployment**
 
@@ -196,6 +212,8 @@ To connect to EmailJs
 8. Copy the code given and paste into html file before the closing head tag.
 9. Get your user ID (you can get this from the Instrucions page in the EmailJS dashboard) and paste it into your emailjs.init().
 
+---
+
 # **Credits**
 
 * [W3schools](https://www.w3schools.com/howto/howto_js_slideshow.asp) - for help with the image slideshow
@@ -205,6 +223,8 @@ To connect to EmailJs
 * [Pexels](https://www.pexels.com/photo/woman-wearing-gray-mock-neck-sweater-789305/) - Photo by Anastasiya Lobanovskaya from Pexels for the 'Sarah' testimonial image
 * [EmailJs](https://www.emailjs.com/docs/sdk/send/) - Code referenced for sending an email from the contact form to business owner
 * [Google Map markers](https://developers.google.com/maps/documentation/javascript/markers) - Code referenced for adding a location marker to map
+
+---
 
 # **Acknowledgements**
 
