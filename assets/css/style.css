@@ -232,6 +232,10 @@ footer {
     color: #fff;
 }
 
+.social-network i:hover {
+    color: #c4cad6;
+}
+
 /*------------ map -----------------------------------*/
 
 div #map {
