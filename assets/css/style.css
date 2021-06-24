@@ -74,6 +74,10 @@ h1 {
     margin-left: 15px;
 }
 
+.intro .hero-btn:hover, #packages .more-btn:hover {
+    color: #fff;
+}
+
 /*-------------section 1--------------------------------------------*/
 
 .section-one, .contact-form {
