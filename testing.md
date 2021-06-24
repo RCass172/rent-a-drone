@@ -5,6 +5,7 @@
 - [Testing Responsiveness](#testing-responsiveness)
 - [Testing Performance](#testing-performance)
 - [Testing User Stories](#testing-user-stories)
+- [Testing Bugs](#testing-bugs)
 
 ---
 
@@ -213,3 +214,22 @@ Google Chrome's Dev tools were used on an incognito page to check the performanc
 - I would like to be able to tell if the service provided is reliable
 
   - By including testimonials the user can read previous user experience in order to sense their reliability and social media links give users the power to investigate more if needed
+
+---
+
+## **Testing Bugs**
+
+* On running a Lighthouse performance test I got the suggestion to reduce the impact of third-party code. On learning more I was able to add the async attribute to the Google maps and JQuery script and this seemed to improve the score.
+
+![Third-party bug](assets/images/thirdPartyBug.png)
+
+* On running the lighthouse tool I got the suggestion to efficiently encode images. On learning more I was able to use an image optimiser on the photographs to reduce size and help them load faster.
+
+![Image bug](assets/images/imageBug.png)
+
+* On writing the JavaScript I used the console.log as I went along in the Dev Tools to make sure everything was working as expected. When first testing the navigation bar I found once the hamburger icon was clicked the menu stayed open after clicking a menu item. To fix this I created a click function using JQuery to collapse the hamburger once a menu item was clicked.
+
+* When running JsHint to check the JavaScript code I got the use `esversion: 6` warning. I was able to fix this by adding `/*jshint esversion: 6 */` to the top of the JavaScript files
+
+![JsHint bug](assets/images/jsHintBug.png)
+
