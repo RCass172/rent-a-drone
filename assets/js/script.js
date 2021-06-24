@@ -29,6 +29,8 @@ let quotes = [
 
 // Creates the function to be called when button clicked
 function dailyQuote() {
+
+  // Lets the quotes to be randomly picked and placed
   let randomPick = Math.floor(Math.random() * (quotes.length));
   document.getElementById("my-quote").innerHTML = quotes[randomPick];
 }
@@ -48,8 +50,12 @@ function plusSlides(n, no) {
 function showSlides(n, no) {
   let i;
   let images = document.getElementsByClassName(slideId[no]);
-  if (n > images.length) {slideIndex[no] = 1};
-  if (n < 1) {slideIndex[no] = images.length};
+  if (n > images.length) {
+    slideIndex[no] = 1;
+  }
+  if (n < 1) {
+    slideIndex[no] = images.length;
+  }
   for (i = 0; i < images.length; i++) {
     images[i].style.display = "none";
   }
@@ -61,14 +67,14 @@ function showSlides(n, no) {
 $(document).ready(function(){
 
   // hides content once page is loaded
-  $(".content-box").hide(),
+  $(".content-box").hide();
 
   // once button is clicked the content will appear
   $("#show").click(function(){
-    $(".content-box").show(1000),
+    $(".content-box").show(1000);
 
   // removes button once the content has been shown
-  $(this).remove()
+  $(this).remove();
   });
 });
 
@@ -113,5 +119,5 @@ function buttonClick(event) {
 // navbar collapse on clicking menu item
 
 $('.navbar-collapse a').click(function(){
-            $(".navbar-collapse").collapse('hide')
+            $(".navbar-collapse").collapse('hide');
 });
