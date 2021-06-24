@@ -2,6 +2,7 @@
 
 - [Code Validation](#code-validation)
 - [Testing Functionality](#testing-functionality)
+- [Testing Responsiveness](#testing-responsiveness)
 
 ## **Code Validation**
 
@@ -95,3 +96,48 @@ Testing was done on all the features of the website to make sure everything work
   - The icons were checked to see if color changes once the user hovers over it
   - Confirmed Google map displays on all relevant website paths
   - Confirmed marker is displaying business address and map is interactive
+
+## **Testing Responsiveness**
+
+- Device testing
+
+The website was tested using Google Chrome's Dev Tools to check if the website displayed well on all devices below:
+
+  1. Moto G4
+  2. Galaxy S5
+  3. Pixel 2
+  4. Pixel 2 XL
+  5. iPhone 5/SE
+  6. iPhone 6/7/8
+  7. iPhone 6/7/8 Plus
+  8. iPhone X
+  9. iPad
+  10. iPad Pro
+  11. Surface Duo
+  12. Galaxy Fold
+
+Results were good and as expected
+
+- Operating system testing
+
+The website was tested on real devices with the following OS:
+
+  1. Windows 10
+  2. Android
+  3. iOS
+
+Results were good and as expected
+
+- Browser testing
+
+The website was tested on the following browsers:
+
+  1. Google Chrome
+  2. Microsoft Edge
+  3. Mozilla Firefox
+  4. Opera
+  5. Vivaldi
+  6. Brave
+
+Results were good and as expected
+
