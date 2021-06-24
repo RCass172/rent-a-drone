@@ -219,7 +219,7 @@ Google Chrome's Dev tools were used on an incognito page to check the performanc
 
 ## **Testing Bugs**
 
-* On running a Lighthouse performance test I got the suggestion to reduce the impact of third-party code. On learning more I was able to add the async attribute to the Google maps and JQuery script and this seemed to improve the score.
+* On running a Lighthouse performance test I got the suggestion to reduce the impact of third-party code. On learning more I was able to add the async attribute to the Google maps and this seemed to improve the score, however adding to the JQuery resulted in errors so this one was removed.
 
 ![Third-party bug](assets/images/thirdPartyBug.png)
 
