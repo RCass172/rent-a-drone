@@ -4,6 +4,7 @@
 - [Testing Functionality](#testing-functionality)
 - [Testing Responsiveness](#testing-responsiveness)
 - [Testing Performance](#testing-performance)
+- [Testing User Stories](#testing-user-stories)
 
 ---
 
@@ -123,7 +124,7 @@ The website was tested using Google Chrome's Dev Tools to check if the website d
   11. Surface Duo
   12. Galaxy Fold
 
-Results were good and as expected
+_Results were good and as expected_
 
 - **Operating system testing**
 
@@ -133,7 +134,7 @@ The website was tested on real devices with the following OS:
   2. Android
   3. iOS
 
-Results were good and as expected
+_Results were good and as expected_
 
 - **Browser testing**
 
@@ -146,7 +147,7 @@ The website was tested on the following browsers:
   5. Vivaldi
   6. Brave
 
-Results were good and as expected
+_Results were good and as expected_
 
 ---
 
@@ -164,3 +165,51 @@ Google Chrome's Dev tools were used on an incognito page to check the performanc
 
 ---
 
+## **Testing User Stories**
+
+1. I would like a simple yet professional looking website that is visually appealing
+  
+  - On first entering the website the user is met with an eye-catching hero image with little text to not distract the user. The rest of the website matches to give a nice flow as the user scrolls down.
+
+2. I would like to be able to view the website on any device
+  
+  - The website has been tested on lots of different sized devices to make sure everything is responsive and the website is displayed well and as expected. A hamburger menu has been implemented on iPads and smaller devices to avoid a cluttered navigation bar.
+
+3. I should be able to easily navigate throughout the website 
+
+  - The navigation bar has been fixed to the top so the user can navigate easily to any section as desired. The business logo also brings the user back to top as a user would expect.
+
+4. Contact details for the business should be easy to find
+
+  - All the contact details including address, contact number, email and location can be found easily on the footer. A contact form is also easily found through the navigation link for users to contact directly.
+
+5. I would like to be able to see previous work done
+
+  - An image slideshow is present for users to see photographs and an Instagram video is present, which brings the user to the business owners Instagram where the user can explore more videos if needed.
+
+6. I would like a clear explanation of what services are provided
+
+  - A packages section shows the two different services available and buttons to find out more about them.
+
+7. Testimonials of previous customers should be provided
+
+  - A testimonial section is added where the user can easily click through them with the arrows provided
+
+8. Social media links should be provided for more information
+
+  - On the footer there is the social media links the user can click on and once clicked will open up in new tabs
+
+9. A map with the business location so it's easy to find
+
+  - On the footer there is a location map added using Google API to show the user the business location. This is interactive to the user.
+10. To learn about the business
+
+  - There is an about me section where the user is provided with the business owner profile picture and a button if they want to learn more about the business.
+
+11. Any links clicked should open in a new tab
+
+  - All social media links and Instagram video all open in a new tab to make sure the user doesn't lose access to the website and get lost in social media.
+
+12. I would like to be able to tell if the service provided is reliable
+
+  - By including testimonials the user can read previous user experience in order to sense their reliability and social media links give users the power to investigate more if needed
