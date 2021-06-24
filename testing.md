@@ -43,65 +43,65 @@ Testing was done on all the features of the website to make sure everything work
 
 1. Navigation bar
 
-  1. The logo was checked to make sure it takes user back to top of page when clicked
-  2. Each navigation link was checked to make sure it brings user to relevant section on page when clicked
-  3. Each link was checked to see if text color changes once the user hovers over it
+    1. The logo was checked to make sure it takes user back to top of page when clicked
+    2. Each navigation link was checked to make sure it brings user to relevant section on page when clicked
+    3. Each link was checked to see if text color changes once the user hovers over it
 
 2. Hero Image
 
-  1. The image was checked to make sure it covers full view height
-  2. Confirmed the intro text slides as expected 
-  3. Both call to action buttons checked to make sure they bring user to relevant section on page once clicked
-  4. Each button was checked to see if text color changes once the user hovers over it
+    1. The image was checked to make sure it covers full view height
+    2. Confirmed the intro text slides as expected 
+    3. Both call to action buttons checked to make sure they bring user to relevant section on page once clicked
+    4. Each button was checked to see if text color changes once the user hovers over it
 
 3. About me section
 
-  1. The profile image was checked to make sure it was on view and looked good quality
-  2. The about me button was clicked to make sure it reveals information about owner as expected
-  3. Confirmed the click me button revealed the random quote as expected
-  4. The buttons were checked to see if text color changes once the user hovers over it
+    1. The profile image was checked to make sure it was on view and looked good quality
+    2. The about me button was clicked to make sure it reveals information about owner as expected
+    3. Confirmed the click me button revealed the random quote as expected
+    4. The buttons were checked to see if text color changes once the user hovers over it
 
 4. Image section
 
-  1. The images were checked to make sure on view at right size and good quality
-  2. Confirmed the right and left arrows both worked as expected on sliding through images
+    1. The images were checked to make sure on view at right size and good quality
+    2. Confirmed the right and left arrows both worked as expected on sliding through images
 
 5. Testimonial section
 
-  1. The individual images were check to make sure they were correct size and good quality
-  2. Confirmed the right and left arrows both worked as expected on sliding through the testimonials
+    1. The individual images were check to make sure they were correct size and good quality
+    2. Confirmed the right and left arrows both worked as expected on sliding through the testimonials
 
 6. Video section
  
-  1. The video was checked it was displayed correctly
-  2. Confirmed on clicking video it opens in new browser tab
+    1. The video was checked it was displayed correctly
+    2. Confirmed on clicking video it opens in new browser tab
 
 7. Packages section
   
-  1. Checked that both packages are displayed as expected
-  2. Confirmed on clicking first more button it adds relevant content as expected and button disappears
-  3. Confirmed on clicking second more button it adds relevant content as expected and button disappears
+    1. Checked that both packages are displayed as expected
+    2. Confirmed on clicking first more button it adds relevant content as expected and button disappears
+    3. Confirmed on clicking second more button it adds relevant content as expected and button disappears
 
 8. Contact section
 
-  1. Checked the contact form with relevant fields are present
-  2. Confirmed the name input is required from the user before submitting
-  3. Confirmed the email input is required from the user before submitting
-  4. Confirmed the contact number input is required from the user before submitting
-  5. Checked one radio button is required to be clicked before submitting
-  6. Confirmed the enter details input is required from the user before submitting
-  7. Confirmed on submitting button an acknowledgment message is displayed
-  8. Confirmed the email has been sent to owner email as expected with details provided by user as below
+    1. Checked the contact form with relevant fields are present
+    2. Confirmed the name input is required from the user before submitting
+    3. Confirmed the email input is required from the user before submitting
+    4. Confirmed the contact number input is required from the user before submitting
+    5. Checked one radio button is required to be clicked before submitting
+    6. Confirmed the enter details input is required from the user before submitting
+    7. Confirmed on submitting button an acknowledgment message is displayed
+    8. Confirmed the email has been sent to owner email as expected with details provided by user as below
 
 ![Email confirmation](assets/images/emailConfirmation.png)
 
 9. Footer
 
-  1. Checked the business name, address, email and contact number all present
-  2. Confirmed social media links open new tab once clicked to relevant website
-  3. The icons were checked to see if color changes once the user hovers over it
-  4. Confirmed Google map displays on all relevant website paths
-  5. Confirmed marker is displaying business address and map is interactive
+    1. Checked the business name, address, email and contact number all present
+    2. Confirmed social media links open new tab once clicked to relevant website
+    3. The icons were checked to see if color changes once the user hovers over it
+    4. Confirmed Google map displays on all relevant website paths
+    5. Confirmed marker is displaying business address and map is interactive
 
 ---
 
