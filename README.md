@@ -73,11 +73,11 @@ As a business owner I would like:
 
 # **Design**
 
-* Hero Image - The sky photograph used for the hero image was chosen to relate to the service provided
-* Colors - From the hero image the blue was taken and used for the navigation bar and footer. The off-white was taken from the clouds to use as a background color in sections and then a white for the alternate sections to create a nice flow and match in with the sky theme of the hero image
-* Fonts - I used the Lato and Roboto fonts throughout the website which both match well together with a fallback font of sans-serif. I also used a cursive font, dancing script for the text on the hero image to create a more personal and fun touch when the user first arrives to the website. These were integrated into the website using [Google Fonts](https://fonts.google.com/)
-* Logo - The business logo was created on the website [Free Logo Design](https://www.freelogodesign.org/) which is used on the navigation bar and made clickable to send user back to top of page
-* Wireframes - Balsamiq was used to show the initial wireframes I had created for the website on the three devices mobile/tablet/desktop 
+* Hero Image - The sky photograph used for the hero image was chosen to relate to the service provided.
+* Colors - From the hero image the blue was taken and used for the navigation bar and footer. The off-white was taken from the clouds to use as a background color in sections and then a white for the alternate sections to create a nice flow and match in with the sky theme of the hero image.
+* Fonts - I used the Lato and Roboto fonts throughout the website which both match well together with a fallback font of sans-serif. I also used a cursive font, dancing script for the text on the hero image and quote in about me section, to create a more personal and fun touch when the user first arrives to the website. These were integrated into the website using [Google Fonts](https://fonts.google.com/).
+* Logo - The business logo was created on the website [Free Logo Design](https://www.freelogodesign.org/) which is used on the navigation bar and made clickable to send user back to top of page.
+* Wireframes - Balsamiq was used to show the initial wireframes I had created for the website on the three devices mobile/tablet/desktop.
   * [View Mobile Here](https://github.com/RCass172/rent-a-drone/blob/master/assets/wireframes/wireframeMobile.png)
   * [View Tablet Here](https://github.com/RCass172/rent-a-drone/blob/master/assets/wireframes/wireframeTablet.png)
 
@@ -89,41 +89,41 @@ As a business owner I would like:
 
 ## Navigation Bar
 
-As the website is on the one page, bootstraps scrollspy is used to show a user exactly where they are on the page and lets them navigate easily from one section to another, which makes for a simpler navigation throughout the page
+As the website is on the one page, I have the navbar fixed on all devices to allow the user to navigate easily from one section to another. The hamburger menu is used on ipads and smaller devices as this makes for a simpler navigation throughout the page and user friendly feature.
 
 ## Hero Image
 
-This is used to fill up the entire browser window on entering for a visually appealing website and to grab the user's attention. Two call to action buttons are present, a contact button primarily aimed at returning users who have visited the website before and want to go ahead and contact the business. A find out more button is aimed at new users visiting the website who are looking for more information before they contact the business
+This is used to fill up the entire browser window on entering for a visually appealing website and to grab the user's attention. Two call to action buttons are present, a contact button primarily aimed at returning users who have visited the website before and want to go ahead and contact the business. A find out more button is aimed at new users visiting the website who are looking for more information before they contact the business.
 
 ## About Me Section
 
-This has a profile picture of the business owner, which gives the user a personal and trusting feeling towards the business and shows that the owner is a real person. A call to action button is found underneath for the user to find out more about the business and service provided. This is to limit too much text on the website initially which can look messy an unappealing to the user
+This has a profile picture of the business owner, which gives the user a personal and trusting feeling towards the business and shows that the owner is a real person. A call to action button is found underneath for the user to find out more about the business and service provided. This is to limit too much text on the website initially which can look messy an unappealing to the user. Once clicked the user can read about the business owner, which is then followed by an inspiration quote of the day. This is again to bring a personal touch and make the owner seem relatable to the user.
 
 ## Image Section
 
-After the user reading about the owner and service provided they can have a look at the photographs provided to showcase the business owner's portfolio. This is valuable to the user as they can see if they like what is provided. The user can click on the arrows to easily move between the photographs
+After the user reads about the owner and service provided, they can have a look at the photographs provided to showcase the business owner's portfolio. This is valuable to the user as they can see if they like what is provided. The user can click on the arrows to easily move between the photographs.
 
 ## Testimonial Section
 
-This provides a photograph and text from previous users which new users will find valuable in finding out more about the service and whether the business is reliable and trustworthy. Users can easily click through the different testimonials using the arrows provided
+This provides a photograph and text from previous users which new users will find valuable in finding out more about the service and whether the business is reliable and trustworthy. Users can easily click through the different testimonials using the arrows provided.
 
 ## Instagram video 
 
-I have embedded the video from the business owner's Instagram to showcase again more of their portfolio. On clicking the video it will open up in a new tab which will allow the user to watch other relevant videos from the Instagram account and allows the user to connect with the business via social media
+I have embedded the video from the business owner's Instagram to showcase again more of their portfolio. On clicking the video it will open up in a new tab which will allow the user to watch other relevant videos from the Instagram account and allows the user to connect with the business via social media. This would be valuable to the user to showcase what is provided and help decide if they want to book.
 
 ## Packages Section
 
-This contains exactly what services are provided along with the cost which is highly valuable to the user to help decide which package better suits their needs. In my initial wireframe I had them as a slideshow to be able to click through, however I felt it better having both on display as there were only two options and easier for the user to see both at first glance when on larger devices
+This contains exactly what services are provided along with the cost which is highly valuable to the user to help decide which package better suits their needs. In my initial wireframe I had them as a slideshow to be able to click through, however I felt it better having both on display as there were only two options and easier for the user to see both at first glance when on larger devices. I added a more button for the user to click and get all the relevant information about each package.
 
 ![Packages section layout](assets/images/packagesLayout.png)
 
 ## Contact Section
 
-This form allows the user to easily get in contact with the business owner by sending an email straight to the business. They can specify which package they are interested in to give the business owner as much information as possible. The email is sent directly to the owner once the user clicks the submit button by using the Emailjs API 
+This form allows the user to easily get in contact with the business owner by sending an email straight to the business. They can specify which package they are interested in to give the business owner as much information as possible. The email is sent directly to the owner once the user clicks the submit button by using the Emailjs API. 
 
 ## Footer Section
 
-This contains all the contact information and social media links which open to a new tab so access to the website is not lost. This encourages the user to connect via the social media links which increases brand awareness. The Google map API was used to show a map with a marker of where the business is located so the user can easily locate where to find them
+This contains all the contact information and social media links which open to a new tab so access to the website is not lost. This encourages the user to connect via the social media links which increases brand awareness. The Google map API was used to show a map with a marker of where the business is located so the user can easily locate where to find them.
 
 ---
 
@@ -228,7 +228,7 @@ To connect to EmailJs
 
 # **Acknowledgements**
 
-I would like to firstly thank my mentor Victor Miclovich who guided me throughout this project and helped point me in the right direction making it a great learning experience. His opinions and help understanding anything I was unsure about was always greatly appreciated.
+I would like to firstly thank my mentor Victor Miclovich who guided me throughout this project and helped point me in the right direction making it a great learning experience. His opinions and help to understand anything I was unsure about was always greatly appreciated.
 
 To my family and friends who helped provide great and honest feedback throughout the project.
 
