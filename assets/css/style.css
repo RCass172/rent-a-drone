@@ -179,12 +179,12 @@ h1 {
     min-width: 200px !important;
 }
 
-.pack-box1 i, .pack-box2 i {
+.package-box i {
     font-size: 60px;
     padding: 15px;
 }
 
-.pack-box1, .pack-box2 {
+.package-box {
     text-align: center;
     border-width: 20px;
     border-style: solid;

@@ -73,52 +73,41 @@ $(document).ready(function(){
 });
 
 
-// function called when first more button it clicked
+//Function called when more buttons clicked
 function buttonClick(event) {
 
-  // hides initial paragraph
-  $(".pack-one").hide(2000);
-  
-  // add more detailed paragraph regarding package
-  $(".pack-box1").append(`
-  <p>€350 for one day hire<br>
-  Drone and Pilot<br>
-  Includes digital copies of all shots<br>
-  Available nationwide
-  </p>
-  `);
+  //Finds each button to give them variable names
+  let firstButton = document.getElementById('btnOne');
+  let secondButton = document.getElementById('btnTwo');
 
-  // removes button
-  $(this).remove()
+  //Checks if first button is clicked to add content
+  if (event === firstButton) {
+    $(".pack-first").html(`
+    <p>€350 for one day hire<br>
+    Drone and Pilot<br>
+    Includes digital copies of all shots<br>
+    Available nationwide
+    </p>
+    `);
+
+    //Hides relevant button as not needed
+    $('#btnOne').hide(1000);
+
+  //Checks if second button clicked to add content
+  } else if (event === secondButton) {
+    $(".pack-second").html(`
+    <p>€150 for one day hire<br>
+    Drone only<br>
+    Includes digital copies of all shots<br>
+    Insurance included<br>
+    Collection only
+    </p>
+    `);
+
+    //Hides relevant button as not needed
+    $('#btnTwo').hide(1000);
+  }
 }
-
-//listener for button click
-let moreBtn = document.getElementById("more-btn1");
-moreBtn.addEventListener('click', buttonClick);
-
-// function called when second more button is clicked
-function buttonClick2(event) {
-
-  // hides initial paragraph
-  $(".pack-two").hide(2000);
-
-  // adds more detailed paragraph regarding package
-  $(".pack-box2").append(`
-  <p>€150 for one day hire<br>
-  Drone only<br>
-  Includes digital copies of all shots<br>
-  Insurance included<br>
-  Collection only
-  </p>
-  `);
-
-  // removed button
-  $(this).remove()
-}
-
-// listener for button click
-let moreBtn2 = document.getElementById("more-btn2");
-moreBtn2.addEventListener('click', buttonClick2);
 
 
 // navbar collapse on clicking menu item
