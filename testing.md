@@ -43,65 +43,65 @@ Testing was done on all the features of the website to make sure everything work
 
 1. Navigation bar
 
-  - The logo was checked to make sure it takes user back to top of page when clicked
-  - Each navigation link was checked to make sure it brings user to relevant section on page when clicked
-  - Each link was checked to see if text color changes once the user hovers over it
+  1. The logo was checked to make sure it takes user back to top of page when clicked
+  2. Each navigation link was checked to make sure it brings user to relevant section on page when clicked
+  3. Each link was checked to see if text color changes once the user hovers over it
 
 2. Hero Image
 
-  - The image was checked to make sure it covers full view height
-  - Confirmed the intro text slides as expected 
-  - Both call to action buttons checked to make sure they bring user to relevant section on page once clicked
-  - Each button was checked to see if text color changes once the user hovers over it
+  1. The image was checked to make sure it covers full view height
+  2. Confirmed the intro text slides as expected 
+  3. Both call to action buttons checked to make sure they bring user to relevant section on page once clicked
+  4. Each button was checked to see if text color changes once the user hovers over it
 
 3. About me section
 
-  - The profile image was checked to make sure it was on view and looked good quality
-  - The about me button was clicked to make sure it reveals information about owner as expected
-  - Confirmed the click me button revealed the random quote as expected
-  - The buttons were checked to see if text color changes once the user hovers over it
+  1. The profile image was checked to make sure it was on view and looked good quality
+  2. The about me button was clicked to make sure it reveals information about owner as expected
+  3. Confirmed the click me button revealed the random quote as expected
+  4. The buttons were checked to see if text color changes once the user hovers over it
 
 4. Image section
 
-  - The images were checked to make sure on view at right size and good quality
-  - Confirmed the right and left arrows both worked as expected on sliding through images
+  1. The images were checked to make sure on view at right size and good quality
+  2. Confirmed the right and left arrows both worked as expected on sliding through images
 
 5. Testimonial section
 
-  - The individual images were check to make sure they were correct size and good quality
-  - Confirmed the right and left arrows both worked as expected on sliding through the testimonials
+  1. The individual images were check to make sure they were correct size and good quality
+  2. Confirmed the right and left arrows both worked as expected on sliding through the testimonials
 
 6. Video section
  
-  - The video was checked it was displayed correctly
-  - Confirmed on clicking video it opens in new browser tab
+  1. The video was checked it was displayed correctly
+  2. Confirmed on clicking video it opens in new browser tab
 
 7. Packages section
   
-  - Checked that both packages are displayed as expected
-  - Confirmed on clicking first more button it adds relevant content as expected and button disappears
-  - Confirmed on clicking second more button it adds relevant content as expected and button disappears
+  1. Checked that both packages are displayed as expected
+  2. Confirmed on clicking first more button it adds relevant content as expected and button disappears
+  3. Confirmed on clicking second more button it adds relevant content as expected and button disappears
 
 8. Contact section
 
-  - Checked the contact form with relevant fields are present
-  - Confirmed the name input is required from the user before submitting
-  - Confirmed the email input is required from the user before submitting
-  - Confirmed the contact number input is required from the user before submitting
-  - Checked one radio button is required to be clicked before submitting
-  - Confirmed the enter details input is required from the user before submitting
-  - Confirmed on submitting button an acknowledgment message is displayed
-  - Confirmed the email has been sent to owner email as expected with details provided by user as below
+  1. Checked the contact form with relevant fields are present
+  2. Confirmed the name input is required from the user before submitting
+  3. Confirmed the email input is required from the user before submitting
+  4. Confirmed the contact number input is required from the user before submitting
+  5. Checked one radio button is required to be clicked before submitting
+  6. Confirmed the enter details input is required from the user before submitting
+  7. Confirmed on submitting button an acknowledgment message is displayed
+  8. Confirmed the email has been sent to owner email as expected with details provided by user as below
 
 ![Email confirmation](assets/images/emailConfirmation.png)
 
 9. Footer
 
-  - Checked the business name, address, email and contact number all present
-  - Confirmed social media links open new tab once clicked to relevant website
-  - The icons were checked to see if color changes once the user hovers over it
-  - Confirmed Google map displays on all relevant website paths
-  - Confirmed marker is displaying business address and map is interactive
+  1. Checked the business name, address, email and contact number all present
+  2. Confirmed social media links open new tab once clicked to relevant website
+  3. The icons were checked to see if color changes once the user hovers over it
+  4. Confirmed Google map displays on all relevant website paths
+  5. Confirmed marker is displaying business address and map is interactive
 
 ---
 
@@ -167,49 +167,49 @@ Google Chrome's Dev tools were used on an incognito page to check the performanc
 
 ## **Testing User Stories**
 
-1. I would like a simple yet professional looking website that is visually appealing
+- I would like a simple yet professional looking website that is visually appealing
   
   - On first entering the website the user is met with an eye-catching hero image with little text to not distract the user. The rest of the website matches to give a nice flow as the user scrolls down.
 
-2. I would like to be able to view the website on any device
+- I would like to be able to view the website on any device
   
   - The website has been tested on lots of different sized devices to make sure everything is responsive and the website is displayed well and as expected. A hamburger menu has been implemented on iPads and smaller devices to avoid a cluttered navigation bar.
 
-3. I should be able to easily navigate throughout the website 
+- I should be able to easily navigate throughout the website 
 
-  - The navigation bar has been fixed to the top so the user can navigate easily to any section as desired. The business logo also brings the user back to top as a user would expect.
+    - The navigation bar has been fixed to the top so the user can navigate easily to any section as desired. The business logo also brings the user back to top as a user would expect.
 
-4. Contact details for the business should be easy to find
+- Contact details for the business should be easy to find
 
-  - All the contact details including address, contact number, email and location can be found easily on the footer. A contact form is also easily found through the navigation link for users to contact directly.
+    - All the contact details including address, contact number, email and location can be found easily on the footer. A contact form is also easily found through the navigation link for users to contact directly.
 
-5. I would like to be able to see previous work done
+- I would like to be able to see previous work done
 
   - An image slideshow is present for users to see photographs and an Instagram video is present, which brings the user to the business owners Instagram where the user can explore more videos if needed.
 
-6. I would like a clear explanation of what services are provided
+- I would like a clear explanation of what services are provided
 
   - A packages section shows the two different services available and buttons to find out more about them.
 
-7. Testimonials of previous customers should be provided
+- Testimonials of previous customers should be provided
 
   - A testimonial section is added where the user can easily click through them with the arrows provided
 
-8. Social media links should be provided for more information
+- Social media links should be provided for more information
 
   - On the footer there is the social media links the user can click on and once clicked will open up in new tabs
 
-9. A map with the business location so it's easy to find
+- A map with the business location so it's easy to find
 
   - On the footer there is a location map added using Google API to show the user the business location. This is interactive to the user.
-10. To learn about the business
+- To learn about the business
 
   - There is an about me section where the user is provided with the business owner profile picture and a button if they want to learn more about the business.
 
-11. Any links clicked should open in a new tab
+- Any links clicked should open in a new tab
 
   - All social media links and Instagram video all open in a new tab to make sure the user doesn't lose access to the website and get lost in social media.
 
-12. I would like to be able to tell if the service provided is reliable
+- I would like to be able to tell if the service provided is reliable
 
   - By including testimonials the user can read previous user experience in order to sense their reliability and social media links give users the power to investigate more if needed
